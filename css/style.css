@@ -1,0 +1,20 @@
+header, .hero, .body, .bar, footer
+{
+    background: pink;
+}
+.bg
+{
+    background: skyblue;
+    height: 80px;
+    border: 4px solid green;
+}
+.bg_red
+{
+    background: red;
+    height: 80px;
+    border: 4px solid green;
+}
+.border1
+{
+    border: 4px solid #FFFF00;
+}
